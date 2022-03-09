@@ -1,6 +1,4 @@
-﻿## کارتابل فرآیند های کاربران
-
->  مسیر دسترسی:  **مدیریت و گزارشات** >**گزارشات عملکردی** > **کارتابل فرآیندهای کاربران** 
+# گزارش کارتابل فرآیندهای کاربران
 
 ![](kartableFarayand1.png)
 
@@ -9,5 +7,5 @@
 
 ![](kartableFarayand2.png)
 
-> نکته: تنظیمات واحدها، سمت ها و حکم های پرسنلی از قبل باید در  [مدیریت شعب،دپارتمان و سمت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md) و[  مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)انجام شود.
+> **نکته:** تنظیمات واحدها، سمت ها و حکم های پرسنلی از قبل باید در  [مدیریت شعب،دپارتمان و سمت](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Basic-Information/branches-department/branches-department.md) و[  مدیریت حکم های پرسنلی ](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personnel-command-management/Personnel-command-management.md)انجام شود.
 

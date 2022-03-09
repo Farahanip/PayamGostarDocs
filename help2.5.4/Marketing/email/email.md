@@ -1,29 +1,29 @@
-﻿## ایمیل 
+# ایمیل 
 
-در این بخش امکان مشاهده گزارش از ارسال ایمیل ها، بصورت نموداری می باشد که شامل دو نمودار می باشد :
+در این بخش امکان مشاهده گزارش از ارسال ایمیل ها، بصورت نموداری می باشد که شامل دو نمودار می باشد:
 
-نمودار پیام کوتاه های ارسالی در ماه های گذشته :  بصورت خودکار سه ماه گذشته نمایش داده می شود ، که در هر کدام از این ماه ها چه تعداد ایمیل ارسال شده، چه تعداد رسیده ، چه تعداد از ایمیل ها توسط مخاطب باز شده و چه تعداد از ایمیل ها را که شامل لینک بوده روی لینک کلیک شده است  .
+**نمودار پیام کوتاه های ارسالی در ماه های گذشته:**  بصورت خودکار سه ماه گذشته نمایش داده می شود ، که در هر کدام از این ماه ها چه تعداد ایمیل ارسال شده، چه تعداد رسیده ، چه تعداد از ایمیل ها توسط مخاطب باز شده و چه تعداد از ایمیل ها را که شامل لینک بوده روی لینک کلیک شده است  .
 
-نمودار پیام کوتاه های ارسالی در 90 روز گذشته:  در این قسمت گزارش نموداری ارسال پیام ها در 90 روز گذشته نمایش داده می شود ، چه تعداد رسیده ، چه تعداد از ایمیل ها توسط مخاطب باز شده و چه تعداد از ایمیل ها را که شامل لینک بوده روی لینک کلیک شده است 
+**نمودار پیام کوتاه های ارسالی در 90 روز گذشته:**  در این قسمت گزارش نموداری ارسال پیام ها در 90 روز گذشته نمایش داده می شود ، چه تعداد رسیده ، چه تعداد از ایمیل ها توسط مخاطب باز شده و چه تعداد از ایمیل ها را که شامل لینک بوده روی لینک کلیک شده است 
 
-> نکته : کاربر برای استفاده از برنامه های تبلیغاتی مربوط به ایمیل نیاز به مجوز ارسال ایمیل دارد .
+> نکته: کاربر برای استفاده از برنامه های تبلیغاتی مربوط به ایمیل نیاز به مجوز ارسال ایمیل دارد .
 
 ![](advertising-mail.png)
 
-<a href="Send-operators%2FSend-operators.md" target="_blank">اپراتور ارسال</a>
+[اپراتور ارسال](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Send-operators/Send-operators.md)
 
-<a href="Email-sender%2FEmail-sender.md" target="_blank">فرستنده ایمیل</a>
+[فرستنده ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Email-sender/Email-sender.md)
 
-<a href="Smart-email%2Fsmart-email.md" target="_blank">ایمیل ویژه-هوشمند</a>
+[ایمیل ویژه - هوشمند](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Smart-email/smart-email.md)
 
-<a href="Photo-email%2FPhoto-email.md" target="_blank">طریقه ایجاد یک ایمیل عکس دار</a>
+[طریقه ایجاد یک ایمیل عکس دار](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Photo-email/Photo-email.md)
 
-<a href="send-group-email%2Fsend-group-email.md" target="_blank">مدیریت ارسال گروه</a>
+[مدیریت ارسال گروهی ایمیل](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/send-group-email/send-group-email.md)
 
-<a href="Advertising-event-email%2Fadvertising-event-email.md" target="_blank">رویداد تبلیغاتی</a>
+[رویداد تبلیغاتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Advertising-event-email/advertising-event-email.md)
 
-<a href="Newsletters-email%2FNewsletters-email.md" target="_blank">خبرنامه</a>
+[خبرنامه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Newsletters-email/Newsletters-email.md)
 
-<a href="Send-List-email%2Fsend-list.-email.md" target="_blank">لیست ایمیل های ارسالی</a>
+[لیست ایمیل‌های ارسالی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/Send-List-email/send-list.-email.md)
 
-<a href="resive-list-email%2Fresive-list-email.md" target="_blank">لیست ایمیل های دریافتی</a>
+[لیست ایمیل‌های دریافتی](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/email/resive-list-email/resive-list-email.md)

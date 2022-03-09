@@ -1,17 +1,14 @@
-﻿## مدیریت ارسال گروهی
-
-> مسیر دسترسی:  **تبلیغات** >**فکس** > **مدیریت ارسال گروهی فکس**
-
+# مدیریت ارسال گروهی
 
 با استفاده از این قابلیت امکان تعریف برنامه های گروهی برای ارسال پیام به گروه و یا دسته ای ار مخاطبان فراهم می شود در صفحه اول، می توان لیست برنامه های تنظیم شده را مشاهده کرد که با استفاده از فیلتر های مختلف می توان به برنامه مورد نظر دسترسی پیدا کرد .
 
  اما برای اجرای یک برنامه جدید باید بر روی دکمه " ارسال گروهی جدید " در سمت راست و بالای صفحه کلیک کرده و با گذراندن چند گام ساده، برنامه را به راحتی اجرا کرد .
  
-[گام1-اطلاعات اولیه ارسال گروهی](1-avalie-fax%2F1-avalie-fax.md)
+گام اول - [اطلاعات اولیه]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/print/group-sending-print/1-avalie-print/1-avalie-print.md)
 
-[گام2-تنظیم متن](2-tanzimmatn-fax%2F2-tanzimmatn-fax.md)
+گام دوم- [محتوای پیام](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/print/group-sending-print/2-tanzimmatn-print/2-tanzimmatn-print.md)
 
-[گام3-انتخاب مخاطبان](3-mokhatab-fax%2F3-mokhatab-fax.md)
+گام سوم- [انتخاب مخاطبان](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/print/group-sending-print/3-mokhatab-print/3-mokhatab-print.md)
 
 ![](advertising-sendinggroupfax-home.png)
 

@@ -1,6 +1,4 @@
-﻿## فعالیت
-
-> مسیر دسترسی:  **تنظیمات** >**شخصی سازی crm** > **نمای کلی** > **کلید ویرایش چرخه کاری در هر موجودیت** > **ایجاد فعالیت** 
+#  نحوه ایجاد فعالیت 
 
 در این بخش امکان انتخاب فعالیت موردنظر برای استقرار فرآیند وجود دارد.
 
@@ -50,7 +48,7 @@
 
 [19. شروع فرآیند](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Start-the-process/Start-the-process.md)
 
-[20. افزودن به لیست سیاه](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Ad-%20to-blacklist/Ad-%20to-blacklist.md)
+[20. افزودن به لیست سیاه](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Ad-to-blacklist/Ad-to-blacklist.md)
 
 [21. به روز رسانی فیلدهای محاسباتی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Computer-field-update/Computer-field-update.md)
 
@@ -66,4 +64,4 @@
 
 [27. چند شرطی](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Conditional-decision/Conditional-decision.md)
 
-[28. فراخوانی رویدا](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Call-the-event/Call-the-event.md)د   
+[28. فراخوانی رویداد](https://github.com/1stco/PayamGostarDocs/blob/master/help%202.5.4/Settings/Personalization-crm/Overview/Process-design/Create-a-work-cycle/Activity/Call-the-event/Call-the-event.md)   

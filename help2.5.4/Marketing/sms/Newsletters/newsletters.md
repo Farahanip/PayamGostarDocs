@@ -1,6 +1,4 @@
-﻿## خبرنامه
-
-> مسیر دسترسی:  **تبلیغات** >**پیام‌کوتاه** > **مدیریت خبرنامه‌ها** 
+# خبرنامه
 
 برای ارسال پیام های هوشمند مختلف در زمان های مختلف با قابلیت عضویت و لغو عضویت برای مخاطبان از خبرنامه استفاده کنید.
 
@@ -8,15 +6,12 @@
 
 در صفحه اول، می توان با تعیین تاریخ اجرا، کاربر ایجاد کننده برنامه،نام برنامه تعریف شده و براساس قابلیت عضویت و لغو عضویت و زدن دکمه فیلتر، لیست برنامه های اجرا شده در گذشته را مشاهده کرد. اما برای اجرای یک برنامه جدید باید بر روی دکمه "خبرنامه جدید" در سمت راست و بالای صفحه کلیک کرده و بالای صفحه کلیک کرده و با گذراندن چند گام ساده، برنامه را به راحتی اجرا نمایید.
 
-لطفا ابتدا  <a href="moshtarak-abzar.md" target="_blank">اطلاعات مشترک ابزارها </a>را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید.
+لطفا ابتدا [اطلاعات مشترک بین ابزارها](https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/moshtarak-abzar/moshtarak-abzar.md) را مطالعه فرمایید و طبق گام های زیر برای ارسال گروهی جدید اقدام فرمایید.
 
-<a href="1-avalie%2Favalie-khabar.md" target="_blank">گام 1-اطلاعات خبر نامه</a>
+ گام 1- [اطلاعات خبرنامه]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Newsletters/1-avalie/avalie-khabar.md)
 
-<a href="2-tanzim-matn%2Ftanzim-matn-khabar.md" target="_blank">گام 2- محتوای پیام</a>
+گام 2-  [تنظیم متن]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Newsletters/2-tanzim-matn/tanzim-matn-khabar.md)
 
-<a href="3-entekhab-mokhatab%2Fentekhab-mokhatab.md" target="_blank">گام 3-مدیریت مخاطبان</a>
-
-
-
+گام 3-  [انتخاب مخاطبان]( https://github.com/1stco/PayamGostarDocs/blob/master/help2.5.4/Marketing/sms/Newsletters/3-entekhab-mokhatab/entekhab-mokhatab.md)
 
 
